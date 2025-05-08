@@ -1,4 +1,4 @@
-# Google Scholar Search
+# Google Scholar Search v1.01
 
 A Python tool to search and analyze Google Scholar articles by keywords, sort by citations, and extract useful information.
 
